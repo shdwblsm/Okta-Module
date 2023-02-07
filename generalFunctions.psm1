@@ -1,3 +1,3 @@
-function List-Options {}
+function New-ListofOptions {}
 
 function Get-Choice {}
