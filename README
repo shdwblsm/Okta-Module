@@ -1,0 +1,7 @@
+REMOTE OKTA ADMINISTRATION TOOLKIT
+
+This toolkit is for Okta Administrators who are comfortable in CLIs and prefer faster ways to manage Okta than a GUI interface. As an Okta administrator myself, I got really tired digging into the GUI constantly for the most basic of stuff. This toolkit is built in Windows PowerShell Core 7 and intended for Windows 10 + and is only tested in Windows at this time. Linux compatibility may be validated once initial development is completed though that doesn't mean it won't work in Linux.
+
+# Requirements
+- PowerShell Core == 7.2
+- ImportExcel == 7.8.4
